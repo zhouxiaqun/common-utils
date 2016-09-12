@@ -27,7 +27,7 @@ public class Code {
 	}
 
 	public static void main(String[] args) {
-		System.err.println(generateRandomCode());
+		System.out.println(generateRandomCode());
 	}
 
 }
